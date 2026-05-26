@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project mailny focuses on cleaning and preparing a dirty cafe sales dataset for analysis using python/pandas.
+This project mainly focuses on cleaning and preparing a dirty cafe sales dataset for analysis using python/pandas.
 
 ## The dataset contains
 - Missing values
